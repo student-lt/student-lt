@@ -7,4 +7,4 @@ Hugo の触り方は下記リンク参照。
 
 http://qiita.com/yakimeron/items/42d537374abde5517267
 
-Copyright © 2017年 焼きそばメロンパン. All rights reserved.
+Copyright © 2017年 学生LT. All rights reserved.
