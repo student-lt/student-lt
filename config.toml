@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "js"
+title = "#学生LT"
+
+[Params]
+Description="学生エンジニア、集まれ。"
