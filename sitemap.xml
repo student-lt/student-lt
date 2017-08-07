@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>kawashi.github.io/student-lt/public/</loc>
+    <loc>kawashi.github.io/student-lt/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>kawashi.github.io/student-lt/public/categories/</loc>
+    <loc>kawashi.github.io/student-lt/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>kawashi.github.io/student-lt/public/tags/</loc>
+    <loc>kawashi.github.io/student-lt/tags/</loc>
     <priority>0</priority>
   </url>
   
