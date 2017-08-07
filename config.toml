@@ -1,5 +1,6 @@
 baseURL = "kawashi.github.io/student-lt/public"
 languageCode = "js"
+canonifyurls = true
 title = "#学生LT"
 
 [Params]
