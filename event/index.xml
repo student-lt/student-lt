@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on #学生LT</title>
-    <link>https://kawashi.github.io/student-lt/event/</link>
+    <link>https://student-lt.tech/event/</link>
     <description>Recent content in Events on #学生LT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>js</language>
     <lastBuildDate>Tue, 08 Aug 2017 23:24:24 +0900</lastBuildDate>
     
-	<atom:link href="https://kawashi.github.io/student-lt/event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://student-lt.tech/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>第2回 学生エンジニア限定LT大会！！！(終)</title>
-      <link>https://kawashi.github.io/student-lt/event/no2/</link>
+      <link>https://student-lt.tech/event/no2/</link>
       <pubDate>Tue, 08 Aug 2017 23:24:24 +0900</pubDate>
       
-      <guid>https://kawashi.github.io/student-lt/event/no2/</guid>
+      <guid>https://student-lt.tech/event/no2/</guid>
       <description>生配信  概要 学生限定のLT大会です。大学生だけでなく、中学生や高校生も大歓迎です。
 学生エンジニア同士の交流がメインなのでLTのテーマは特に無く、自由に話していただければと思います。
 (プログラミング、Linux、セキュリティ、ビットコイン、好きな曲&amp;hellip;)
@@ -30,10 +30,10 @@
     
     <item>
       <title>第1回 学生エンジニア限定LT大会！！！(終)</title>
-      <link>https://kawashi.github.io/student-lt/event/no1/</link>
+      <link>https://student-lt.tech/event/no1/</link>
       <pubDate>Sat, 06 May 2017 23:01:24 +0900</pubDate>
       
-      <guid>https://kawashi.github.io/student-lt/event/no1/</guid>
+      <guid>https://student-lt.tech/event/no1/</guid>
       <description>生配信  概要 学生限定のLT大会です。大学生だけでなく、中学生や高校生も大歓迎です。
 学生エンジニア同士の交流がメインなのでLTのテーマは特に無く、自由に話していただければと思います。
 (Mastodon、AWS、逆アセンブル、ビットコイン、好きな曲&amp;hellip;)
