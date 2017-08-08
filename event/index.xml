@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>#学生LT</title>
-    <link>https://kawashi.github.io/student-lt/</link>
-    <description>Recent content on #学生LT</description>
+    <title>Events on #学生LT</title>
+    <link>https://kawashi.github.io/student-lt/event/</link>
+    <description>Recent content in Events on #学生LT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>js</language>
     <lastBuildDate>Tue, 08 Aug 2017 23:24:24 +0900</lastBuildDate>
     
-	<atom:link href="https://kawashi.github.io/student-lt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kawashi.github.io/student-lt/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,16 +26,6 @@
 当日の様子 今回は Microsoft さんの会場をお借りした為、余裕を持った登壇スペースを確保することが出来ました。
 また、参加人数も一般参加が28人、LT参加が7人と前回の倍以上の方が参加して下さりました。
 前回同様LTのレベルが学生とは思えないほど高く、そろそろ初心者LT枠を作ったほうが良いのではないかと感じております。</description>
-    </item>
-    
-    <item>
-      <title>学生LT とは</title>
-      <link>https://kawashi.github.io/student-lt/about/</link>
-      <pubDate>Tue, 08 Aug 2017 22:30:45 +0900</pubDate>
-      
-      <guid>https://kawashi.github.io/student-lt/about/</guid>
-      <description> 学生LT について 学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。
-学生LT の活動  学生限定LT大会を2ヶ月に1回のペースで開催しております。 学生エンジニアが交流出来る Slackチーム を作りました。  学生LT の目標 / 目指すもの  同じ趣味の仲間で技術を語り合う環境を作ります 学生エンジニア同士の人脈を広げます 日本中の学生エンジニアを繋げます  </description>
     </item>
     
     <item>

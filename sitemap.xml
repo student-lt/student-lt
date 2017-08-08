@@ -3,12 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kawashi.github.io/student-lt/event/no2/</loc>
+    <lastmod>2017-08-08T23:24:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kawashi.github.io/student-lt/about/</loc>
+    <lastmod>2017-08-08T22:30:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kawashi.github.io/student-lt/event/no1/</loc>
+    <lastmod>2017-05-06T23:01:24+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kawashi.github.io/student-lt/</loc>
+    <lastmod>2017-08-08T23:24:24+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kawashi.github.io/student-lt/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kawashi.github.io/student-lt/event/</loc>
+    <lastmod>2017-08-08T23:24:24+09:00</lastmod>
     <priority>0</priority>
   </url>
   
