@@ -1,7 +1,7 @@
 ---
 title: "学生LT とは"
 date: 2017-08-08T22:30:45+09:00
-draft: true
+draft: false
 ---
 
 

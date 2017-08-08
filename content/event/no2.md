@@ -1,7 +1,7 @@
 ---
 title: "第2回 学生エンジニア限定LT大会！！！(終)"
 date: 2017-08-08T23:24:24+09:00
-draft: true
+draft: false
 ---
 
 

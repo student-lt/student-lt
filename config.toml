@@ -1,5 +1,5 @@
-# baseURL = "https://kawashi.github.io/student-lt"
-baseURL = ""
+baseURL = "https://kawashi.github.io/student-lt"
+#baseURL = ""
 languageCode = "js"
 canonifyurls = true
 title = "#学生LT"
