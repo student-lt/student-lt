@@ -33,21 +33,19 @@
 
                 <div class="collapse navbar-collapse">
 
-                    {{ if .Site.Menus.main }}
-                        <ul class="nav navbar-nav">
-                            {{ range sort .Site.Menus.main }}
-                                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-                            {{ end }}
-                        </ul>
-                    {{ end }}
+                    <ul class="nav navbar-nav">
+                        <li><a href="http://localhost:1313/">Home</a></li>
+                        <li><a href="http://localhost:1313/about/">About</a></li>
+                        <li><a href="http://localhost:1313/event/">Event</a></li>
+                    </ul>
 
-                    {{ if .Site.Menus.icon }}
-                        <ul class="nav navbar-nav navbar-right">
-                            {{ range sort .Site.Menus.icon }}
-                                <li class="navbar-icon"><a href="{{ .URL }}"><i class="fa fa-{{ .Name }}"></i></a></li>
-                            {{ end }}
-                        </ul>
-                    {{ end }}
+
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="navbar-icon"><a href="https://twitter.com/_student_lt"><i class="fa fa-twitter"></i></a></li>
+                        <li class="navbar-icon"><a href="https://www.facebook.com/groups/237311463440708/"><i class="fa fa-facebook"></i></a></li>
+                        <li class="navbar-icon"><a href="https://public-student-lt.slack.com/join/shared_invite/MjIzMjIwMTEwNDA1LTE1MDIxMDc4NTgtNTQyYmNmMzhlMw/"><i class="fa fa-slack"></i></a></li>
+                    </ul>
 
                 </div>
 

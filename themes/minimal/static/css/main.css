@@ -16,6 +16,11 @@ main {
     max-width: 750px;
 }
 
+:root {
+    --accent: #ff4100;
+    --border-width: 5px;
+}
+
 /*footer*/
 
 .copyright {
@@ -29,15 +34,25 @@ main {
 }
 
 .intro > h1 {
-    color: #fe3843;
-    font-size: 12vh;
+    color: #404040;
+    font-size: 14vh;
     display: none;
 }
 
 .intro > h2 {
-    color: #fe3843;
+    color: #404040;
     display: none;
     font-size: 3vmin;
+}
+
+/*content*/
+
+.content-title {
+    font-size: 5vmin;
+}
+
+.text-justify {
+    font-size: 2vh;
 }
 
 /*apply accent colour to links*/
