@@ -16,6 +16,7 @@ main {
     max-width: 750px;
 }
 
+
 /*footer*/
 
 .copyright {
@@ -29,15 +30,28 @@ main {
 }
 
 .intro > h1 {
-    color: #fe3843;
-    font-size: 12vh;
-    display: none;
+    color: #292929;
+    font-size: 13vh;
 }
 
 .intro > h2 {
-    color: #fe3843;
-    display: none;
+    color: #292929;
     font-size: 3vmin;
+}
+
+/*content*/
+
+.content-title {
+    font-size: 3.4vmin;
+}
+
+.text-justify {
+    font-size: 1.5vh;
+}
+
+.text-justify h1 {
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 /*apply accent colour to links*/
