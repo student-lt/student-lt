@@ -3,6 +3,7 @@ baseURL = "https://kawashi.github.io/student-lt"
 languageCode = "js"
 canonifyurls = true
 title = "#学生LT"
+publishdir = "public"
 
 [Params]
 Description="学生エンジニア、集まれ。"
