@@ -45,13 +45,14 @@ main {
     font-size: 3.4vmin;
 }
 
-.text-justify {
-    font-size: 2vh;
-}
-
 .text-justify h1 {
     margin-top: 50px;
     margin-bottom: 20px;
+    font-size: 3vh;
+}
+
+.text-justify p, .text-justify li {
+    font-size: 2vh;
 }
 
 /*apply accent colour to links*/
