@@ -6,10 +6,20 @@
     <description>Recent content in Events on #学生LT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>js</language>
-    <lastBuildDate>Tue, 08 Aug 2017 23:24:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 13:25:19 +0900</lastBuildDate>
     
 	<atom:link href="https://student-lt.tech/event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>No3</title>
+      <link>https://student-lt.tech/event/no3/</link>
+      <pubDate>Thu, 10 Aug 2017 13:25:19 +0900</pubDate>
+      
+      <guid>https://student-lt.tech/event/no3/</guid>
+      <description>概要 第3回 学生エンジニア限定LT大会！！！ の募集を開始しました！
+イベントページ: https://student-lt.connpass.com/event/64271/</description>
+    </item>
     
     <item>
       <title>第2回 学生エンジニア限定LT大会！！！(終)</title>
