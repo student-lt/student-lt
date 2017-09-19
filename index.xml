@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#学生LT</title>
+    <link>https://student-lt.tech/</link>
+    <description>Recent content on #学生LT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>js</language>
+    <lastBuildDate>Thu, 10 Aug 2017 13:25:19 +0900</lastBuildDate>
+    
+	<atom:link href="https://student-lt.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第3回 学生エンジニア限定LT大会！！！(募集中)</title>
+      <link>https://student-lt.tech/event/no3/</link>
+      <pubDate>Thu, 10 Aug 2017 13:25:19 +0900</pubDate>
+      
+      <guid>https://student-lt.tech/event/no3/</guid>
+      <description>概要 第3回 学生エンジニア限定LT大会！！！ の募集を開始しました！
+イベントページ: https://student-lt.connpass.com/event/64271/</description>
+    </item>
+    
+    <item>
+      <title>第2回 学生エンジニア限定LT大会！！！(終)</title>
+      <link>https://student-lt.tech/event/no2/</link>
+      <pubDate>Tue, 08 Aug 2017 23:24:24 +0900</pubDate>
+      
+      <guid>https://student-lt.tech/event/no2/</guid>
+      <description>生配信  概要 学生限定のLT大会です。大学生だけでなく、中学生や高校生も大歓迎です。
+学生エンジニア同士の交流がメインなのでLTのテーマは特に無く、自由に話していただければと思います。
+(プログラミング、Linux、セキュリティ、ビットコイン、好きな曲&amp;hellip;)
+参加費用は懇親会の費用となりますので、懇親会に参加しない方は払わなくて大丈夫です。
+また、今回は最近まで学生だった方や、学生と混ざりたいと思っている大人の方向けに「学生じゃない枠」も用意しているので、学生じゃないから行けない！と思っている方も是非ご参加下さい。
+イベントページURL https://student-lt.connpass.com/event/62129/
+当日の様子 今回は Microsoft さんの会場をお借りした為、余裕を持った登壇スペースを確保することが出来ました。
+また、参加人数も一般参加が28人、LT参加が7人と前回の倍以上の方が参加して下さりました。
+前回同様LTのレベルが学生とは思えないほど高く、そろそろ初心者LT枠を作ったほうが良いのではないかと感じております。</description>
+    </item>
+    
+    <item>
+      <title>学生LT とは</title>
+      <link>https://student-lt.tech/about/</link>
+      <pubDate>Tue, 08 Aug 2017 22:30:45 +0900</pubDate>
+      
+      <guid>https://student-lt.tech/about/</guid>
+      <description>学生LT について 学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。
+学生LT の活動  学生限定LT大会を2ヶ月に1回のペースで開催しております。 学生エンジニアが交流出来る Slackチーム を作りました。  学生LT の目標 / 目指すもの  同じ趣味の仲間で技術を語り合う環境を作ります 学生エンジニア同士の人脈を広げます 日本中の学生エンジニアを繋げます  スポンサー募集 学生LTでは懇親会で食べる🍣の費用を出してくれるスポンサー企業を募集しております。
+スポンサーになっていただいた企業さんについては、イベント内で宣伝させて頂きます。
+是非スポンサーになりたいという企業さんがいらっしゃいましたら、
+下記のメールアドレスかTwitterアカウントまでご連絡お願いします。
+Mail: student00lt@gmail.com
+Twitter: https://twitter.com/_student_lt</description>
+    </item>
+    
+    <item>
+      <title>第1回 学生エンジニア限定LT大会！！！(終)</title>
+      <link>https://student-lt.tech/event/no1/</link>
+      <pubDate>Sat, 06 May 2017 23:01:24 +0900</pubDate>
+      
+      <guid>https://student-lt.tech/event/no1/</guid>
+      <description>生配信  概要 学生限定のLT大会です。大学生だけでなく、中学生や高校生も大歓迎です。
+学生エンジニア同士の交流がメインなのでLTのテーマは特に無く、自由に話していただければと思います。
+(Mastodon、AWS、逆アセンブル、ビットコイン、好きな曲&amp;hellip;)
+参加費用は懇親会で食べる寿司 (予定) の費用となりますので、懇親会に参加しない方は払わなくて大丈夫です。
+今回の勉強会の様子は Youtube Live で配信予定ですので、地方の方もよかったら見に来て下さい！
+Youtube Live のリンクは 僕のTwitter でつぶやきます。
+イベントページURL https://student-lt.connpass.com/event/55850/
+当日の様子 今回は初めてということで会場が確保出来ず、自分の通っている学校で行うことにしました。
+人数は30人を想定していましたが、実際にはLT参加が9人、一般参加5人でした。
+しかし、少人数でも同じ趣味の仲間が集まるととても楽しいと感じたので、これからも続けていこうと思います。</description>
+    </item>
+    
+  </channel>
+</rss>
