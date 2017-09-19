@@ -4,7 +4,6 @@ languageCode = "js"
 canonifyurls = true
 title = "#学生LT"
 publishdir = "public"
-googleAnalytics = "UA-106772445-1"
 
 [Params]
 Description="学生エンジニア、集まれ。"
