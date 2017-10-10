@@ -22,17 +22,22 @@
 <!-- TODO: 無理やりタイトルをフェードイン -->
 <style>
     .intro h1{
-        display: none;
+        opacity: 0;
     }
 
     .intro h2{
-        display: none;
+        opacity: 0;
+    }
+
+    .intro + .about{
+        opacity: 0;
     }
 </style>
 
 <script>
     $(document).ready(function() {
-        $('.intro h1').delay(300).fadeIn(500);
-        $('.intro h2').delay(1000).fadeIn(500);
+        $('.intro h1').delay(300).animate({ opacity: 1 }, 500);
+        $('.intro h2').delay(800).animate({ opacity: 1 }, 500);
+        $('.intro + .about').delay(1800).animate({ opacity: 1 }, 500);
     });
 </script>
