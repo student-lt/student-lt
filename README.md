@@ -11,4 +11,8 @@ http://qiita.com/yakimeron/items/42d537374abde5517267
 
 https://github.com/kawashi/student-lt/tree/gh-pages
 
+# イベントページのコンテンツを追加する時
+
+
+
 Copyright © 2017年 学生LT. All rights reserved.
