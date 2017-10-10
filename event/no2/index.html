@@ -36,41 +36,23 @@
 
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
- 
-
-
-
-
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-
-
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
-
-
-<style>
-    .intro h1{
-        display: none;
-    }
-
-    .intro h2{
-        display: none;
-    }
-</style>
-
-<script>
-    $(document).ready(function() {
-        $('.intro h1').delay(300).fadeIn(500);
-        $('.intro h2').delay(1000).fadeIn(500);
-    });
-</script>
  <meta name="generator" content="Hugo 0.25.1" />
 
         <meta charset="utf-8">
-
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name='title' content='#学生LT'>
+        <meta name='description' content='学生エンジニア、集まれ。#学生LT は、学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。'>
+        <meta property='og:type' content='website'>
+        <meta property='og:title' content='#学生LT'>
+        <meta property='og:description' content='学生エンジニア、集まれ。#学生LT は、学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。'>
+        <meta property='og:image' content='https://raw.githubusercontent.com/kawashi/student-lt/themes/minimal/images/logo.png'>
+        <meta property='og:url' content='https://student-lt.tech'>
+        <meta property='og:site_name' content='#学生LT'>
+        <meta property='og:locale' content='ja_JP'>
+        <meta name='twitter:card' content='summary'>
+        <meta name='twitter:title' content='#学生LT'>
+        <meta name='twitter:description' content='学生エンジニア、集まれ。#学生LT は、学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。'>
+        <meta name='twitter:image' content='https://raw.githubusercontent.com/kawashi/student-lt/themes/minimal/images/logo.png'>
 
     </head>
 
@@ -96,7 +78,6 @@
 
                     <ul class="nav navbar-nav">
                         <li><a href="https://student-lt.tech/">Home</a></li>
-                        <li><a href="https://student-lt.tech/about/">About</a></li>
                         <li><a href="https://student-lt.tech/event/">Event</a></li>
                     </ul>
 
@@ -166,9 +147,42 @@
 
 
 
-        <footer>
+        
 
-        </footer>
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+
+<style>
+    .intro h1{
+        opacity: 0;
+    }
+
+    .intro h2{
+        opacity: 0;
+    }
+
+    .intro + .about{
+        opacity: 0;
+    }
+</style>
+
+<script>
+    $(document).ready(function() {
+        $('.intro h1').delay(300).animate({ opacity: 1 }, 500);
+        $('.intro h2').delay(800).animate({ opacity: 1 }, 500);
+        $('.intro + .about').delay(1800).animate({ opacity: 1 }, 500);
+    });
+</script>
+
 
     </body>
 
