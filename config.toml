@@ -1,10 +1,132 @@
-baseURL = "https://student-lt.tech/"
-#baseURL = ""
-languageCode = "js"
-canonifyurls = true
-title = "#学生LT"
-publishdir = "public"
-googleAnalytics = "UA-106772445-1"
+baseurl = "https://example.org/"
+languageCode = "ja"
+title = "学生LT"
+theme = "hugo-creative-theme"
+googleAnalytics = ""
 
-[Params]
-Description="学生エンジニア、集まれ。"
+[params]
+
+  # You can use Markdown syntax for urls [text](//url.to/source) for
+  # most longer texts.
+
+  # All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # All projects of the portfolio are defined in their own files.
+  # You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+  # folder into the 'data' directory at the root of this Hugo site.
+  # For more information take a look at the README.
+  # To provide some metadata for search engines feel free to add some
+  # information about you and your website.
+  name = "Your name"
+  description = "Your description"
+
+  # The path must be relative to the static folder
+  favicon = "favicon.ico"
+
+
+  # Navigation
+  [params.navigation]
+    brand = "学生LT"
+
+    [params.navigation.links]
+      about     = "About"
+      activity  = "Activity"
+      team      = "運営チーム"
+      portfolio = "Portfolio"
+      contact   = "Contact"
+
+
+  # Hero section
+  [params.hero]
+    # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+    slogan     = "#学生LT"
+    subtitle   = "学生エンジニア、集まれ。"
+    buttonText = "もっと知る"
+
+
+  # About section
+  [params.about]
+    headline    = "About"
+    description = "学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。<br>日本中の学生エンジニアを繋げます。"
+    buttonText  = "参加する!"
+
+  # Team section
+  [params.team]
+    headline    = "運営チーム"
+    description = "学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。<br>日本中の学生エンジニアを繋げます。"
+    buttonText  = "もっと見る"
+
+       [[params.team.list]]
+            icon = "fa-diamond"
+            title = "やきそばめろんさん"
+            description = "what"
+
+        [[params.team.list]]
+            icon = "fa-paper-plane"
+            title = " who"
+            description = "what"
+
+    [[params.team.list]]
+            icon = "fa-newspaper-o"
+            title = "who"
+            description = "what"
+
+        [[params.team.list]]
+            icon = "fa-heart"
+            title = "who"
+            description = "what"
+
+  # Service section
+  [params.services]
+    headline = "Activity"
+
+        [[params.services.list]]
+            icon = "fa-diamond"
+            title = "学生限定LT会を開催"
+            description = "学生限定LT大会を2ヶ月に1回のペースで開催しております。"
+
+        [[params.services.list]]
+      icon = "fa-paper-plane"
+      title = " Slackチーム"
+      description = "学生エンジニアが交流出来る Slackチーム を作りました。"
+
+    [[params.services.list]]
+            icon = "fa-newspaper-o"
+            title = "学生LT会後の懇親会"
+            description = "たくさんの学生エンジニアと繋がることができます。"
+
+        [[params.services.list]]
+            icon = "fa-heart"
+            title = "お寿司を食べれます。"
+            description = "お寿司たべれるよ！"
+
+
+    # Portfolio modals
+  [params.portfolio.modal]
+        client = "Client"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+  [params.aside]
+    headline = "Get the Creative Theme for Hugo"
+
+    [params.aside.button]
+      text = "Download now"
+      link = "//github.com/digitalcraftsman/hugo-creative-theme"
+
+  # Contact section
+  [params.contact]
+    headline = "Contact"
+    description = "学生LTの最新情報をチェック。"
+    phone = "Twetter"
+    email = "Slack"
+
+  # Google Maps section
+  # [params.location]
+  #   latitude  = "34.007850"
+  #   longitude = "-118.499305"
+  #   maps_api_key = ""
