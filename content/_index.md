@@ -97,9 +97,9 @@ p{
 <div class="top-red">
 <h1 class="title">学生LT の目標 / 目指すもの<br><span class="bottom-border-w"></h1>
 <div class="row">
-<div class="goal-li"><i class="glyphicon glyphicon-search icon fa-4x"></i><br>同じ趣味の仲間で技術を語り合う環境を作ります</div>
-<div class="goal-li"><i class="glyphicon glyphicon-search icon fa-4x"></i><br>学生エンジニア同士の人脈を広げます</div>
-<div class="goal-li"><i class="glyphicon glyphicon-search icon fa-4x"></i><br>日本中の学生エンジニアを繋げます</div>
+<div class="goal-li"><i class="glyphicon glyphicon-comment icon fa-4x"></i><br>同じ趣味の仲間で技術を語り合う環境を作ります</div>
+<div class="goal-li"><i class="glyphicon glyphicon-map-marker icon fa-4x"></i><br>学生エンジニア同士の人脈を広げます</div>
+<div class="goal-li"><i class="glyphicon glyphicon-resize-small icon fa-4x"></i><br>日本中の学生エンジニアを繋げます</div>
 </div>
 </div>
 <div class="top-white">
