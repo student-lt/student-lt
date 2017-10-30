@@ -1,14 +1,15 @@
 {{ partial "header" . }}
 
+<div class="intro">
+
+    <h1><a href="https://twitter.com/search?q=%E5%AD%A6%E7%94%9FLT&src=typd" target="_blank" class="title-link">{{ .Site.Title }}</a></h1>
+
+    <h2>{{ markdownify .Site.Params.Description }}</h2>
+<a type="button" class="btn btn-primary btn-lg alink" href="#about">もっと知る</a>
+</div>
 <main>
 
-    <div class="intro">
 
-        <h1><a href="https://twitter.com/search?q=%E5%AD%A6%E7%94%9FLT&src=typd" target="_blank">{{ .Site.Title }}</a></h1>
-
-        <h2>{{ markdownify .Site.Params.Description }}</h2>
-
-    </div>
 
     <div class="about text-justify">
 
@@ -17,5 +18,4 @@
     </div>
 
 </main>
-
 {{ partial "footer" . }}
