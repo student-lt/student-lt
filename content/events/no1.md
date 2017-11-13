@@ -4,6 +4,9 @@ date: 2017-05-06T23:01:24+09:00
 draft: false
 ---
 
+
+
+
 # 生配信
 
 <iframe class="youtube_video" src="https://www.youtube.com/embed/XscQUscvkWk" frameborder="0" allowfullscreen></iframe>
@@ -28,5 +31,7 @@ Youtube Live のリンクは 僕のTwitter でつぶやきます。
 今回は初めてということで会場が確保出来ず、自分の通っている学校で行うことにしました。
 人数は30人を想定していましたが、実際にはLT参加が9人、一般参加5人でした。
 しかし、少人数でも同じ趣味の仲間が集まるととても楽しいと感じたので、これからも続けていこうと思います。
+
+
 
 
