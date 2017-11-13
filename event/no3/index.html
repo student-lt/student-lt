@@ -98,8 +98,8 @@
 
 <main>
 
-    <div class="item">
-
+    <div class="panel panel-warning">
+<div class="panel-body">
     
     
 
@@ -109,7 +109,7 @@
     <h4 class="content-title"><a href="https://student-lt.tech/event/no3/">第3回 学生エンジニア限定LT大会！！！</a></h4>
     <h5>August 10, 2017</h5>
     
-
+</div>
 </div>
 
 
@@ -175,6 +175,15 @@
         $('.intro h1').delay(300).animate({ opacity: 1 }, 500);
         $('.intro h2').delay(800).animate({ opacity: 1 }, 500);
         $('.intro + .about').delay(1800).animate({ opacity: 1 }, 500);
+    $('#find_button').click(function(){
+        var speed = 500;
+        var href= $(this).attr("href");
+        var target = $(href == "#" || href == "" ? 'html' : href);
+        var position = target.offset().top;
+        $("html, body").animate({scrollTop:position}, speed, "swing");
+        return false;
+    });
+
     });
 </script>
 
