@@ -86,6 +86,9 @@ a:hover {
     padding: 0 15px;
 }
 
+iframe {
+    width: 100%;
+}
 /*list item for posts and projects*/
 
 .item {

@@ -6,7 +6,7 @@ draft: false
 
 # 生配信
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XscQUscvkWk" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube_video" src="https://www.youtube.com/embed/XscQUscvkWk" frameborder="0" allowfullscreen></iframe>
 
 
 # 概要
