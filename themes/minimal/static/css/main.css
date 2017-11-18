@@ -115,3 +115,6 @@ iframe {
 footer {
     border-bottom: var(--border-width) solid var(--accent);
 }
+ul{
+    padding-left:0;
+}
