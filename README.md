@@ -11,7 +11,15 @@ http://qiita.com/yakimeron/items/42d537374abde5517267
 
 https://github.com/kawashi/student-lt/tree/gh-pages
 
+# ローカルプレビュー方法
+
+```
+hugo server --theme=minimal --buildDrafts --watch
+```
+
 # イベントページのコンテンツを追加する時
+
+//TODO: 今度書く
 
 
 
