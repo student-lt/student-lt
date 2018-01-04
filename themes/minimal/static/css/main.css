@@ -27,12 +27,15 @@ main {
 }
 
 /*home page*/
+.title-link{
+  font-size:170px;
+}
 .intro {
     padding: 35vh 0;
     background-position:left top;
     background-repeat: no-repeat;
     background-size: 100% auto;
-    background-image: url("/images/creative.jpg");
+    background-image: url("/images/student-lt-top.jpg");
     background-size:cover;
 
 
@@ -46,7 +49,7 @@ main {
 
 .intro > h2 {
     color:white;
-    font-size: 3vmin;
+    font-size: 4vmin;
 }
 
 /*content*/
@@ -57,11 +60,11 @@ main {
 
 .text-justify h1 {
     margin-top:0px;
-    font-size: 3vh;
+    font-size: 4vh;
 }
 
 .text-justify p, .text-justify li {
-    font-size: 2vh;
+    font-size: 2.3vh;
 }
 
 /*apply accent colour to links*/
@@ -117,4 +120,16 @@ footer {
 }
 ul{
     padding-left:0;
+}
+
+@media screen and (max-width: 600px)  {
+    .title-link{
+      font-size:100px;
+    }
+    .sub-title{
+        font-size: 20px;
+    }
+    .intro {
+    background-image: url("/images/mobile-top.jpg");
+    }
 }

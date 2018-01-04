@@ -21,15 +21,17 @@ draft: false
   }
    .alink{
     display: inline-block;
-  background-color: #f05f40;
-  border-color: #f05f40;
-  transition: 2.0s ;
-  -moz-border-radius: 30px;
-  -webkit-border-radius: 30px;
-  border-radius: 30px;
-  padding:10px 30px;
-  margin-top:30px;
-  margin:30px auto;
+    background-color: #f05f40;
+    border-color: #f05f40;
+    transition: 2.0s ;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+    padding:10px 30px;
+    margin-top:30px;
+    margin:30px auto;
+    width:160px;
+    height:50px;
 
  }
 .alink:link,.alink:visited{
@@ -42,6 +44,7 @@ draft: false
   background-color: white;
   border-color: white;
 }
+
  .title-link:hover{
   color: #f05f40;
  }
@@ -76,6 +79,7 @@ p{
 .goal-li{
   text-align: center;
   padding-top:30px;
+  font-size: 2.3vh;
 }
 .icon{
   margin-bottom:30px;
