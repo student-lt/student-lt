@@ -29,7 +29,7 @@ hugo new event/イベント番号.md
 
 ```
 ---
-title: "第1回 学生エンジニア限定LT大会！！！"
+title: "第1回 学生エンジニア限定LT大会"
 date: 2017-05-06T23:01:24+09:00
 draft: false
 ---
