@@ -30,7 +30,7 @@ draft: false
     padding:10px 30px;
     margin-top:30px;
     margin:30px auto;
-    width:160px;
+    width:170px;
     height:50px;
 
  }
@@ -94,9 +94,10 @@ p{
 <h1 class="title">学生LT の活動<br><span class="bottom-border-r"></h1>
 <ul>
 <li>学生限定LT大会を2ヶ月に1回のペースで開催しております。</li>
-<li>学生エンジニアが交流出来る [Slackチーム](https://public-student-lt.slack.com/join/shared_invite/MjIzMjIwMTEwNDA1LTE1MDIxMDc4NTgtNTQyYmNmMzhlMw) を作りました。</li>
+<li>学生エンジニアが交流出来る [Discordチーム](https://discord.gg/F4u9yKN) を作りました。</li>
+<li>※ Slackチームは廃止し、Discordへ移行しました。</li>
 </ul>
-<a type="button" class="btn btn-primary btn-lg alink" href="https://public-student-lt.slack.com/join/shared_invite/MjIzMjIwMTEwNDA1LTE1MDIxMDc4NTgtNTQyYmNmMzhlMw">Slackへ入る</a>
+<a type="button" class="btn btn-primary btn-lg alink" href="https://discord.gg/F4u9yKN">Discordへ入る</a>
 </div>
 <div class="top-red">
 <h1 class="title">学生LT の目標 / 目指すもの<br><span class="bottom-border-w"></h1>
