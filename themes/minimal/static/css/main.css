@@ -109,6 +109,10 @@ iframe {
     display: inline-block !important;
 }
 
+.fa-discord {
+     background-image:url(/images/discord.svg);
+}
+
 /*coloured borders at top and bottom of the page*/
 
 .navbar.navbar-default {
