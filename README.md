@@ -11,6 +11,8 @@ http://qiita.com/yakimeron/items/42d537374abde5517267
 
 https://github.com/kawashi/student-lt/tree/gh-pages
 
+キャッシュ及びHTTPS化は [CloudFlare](https://www.cloudflare.com/) で行っている。
+
 # ローカルプレビュー方法
 
 ```
