@@ -42,7 +42,7 @@ draft: false
 .alink:hover{
   color:#f05f40;
   background-color: white;
-  border-color: white;
+  border-color: #B63300;
 }
 
  .title-link:hover{
