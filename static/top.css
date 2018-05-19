@@ -1,0 +1,85 @@
+body{
+  padding-top:0px;
+}
+main{
+  max-width: 2000px;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+main h1,p,li{
+  text-align: center;
+  list-style: none;
+}
+.alink{
+  display: inline-block;
+  background-color: #f05f40;
+  border-color: #f05f40;
+  transition: 2.0s ;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+  padding:10px 30px;
+  margin-top:30px;
+  margin:30px auto;
+  width:170px;
+  height:50px;
+}
+.alink:link,.alink:visited{
+  color: white;
+  border-color: #f05f40;
+  background-color: #f05f40;
+}
+.alink:hover{
+  color:#f05f40;
+  background-color: white;
+  border-color: #B63300;
+}
+
+.title-link:hover{
+  color: #f05f40;
+}
+
+.top-red{
+  text-align: center;
+  background-color: #f05f40;
+  color:white;
+  padding:50px 30px;
+}
+
+.top-white{
+  text-align: center;
+  padding:50px 30px;
+}
+
+.title{
+  margin: 0px 0px;
+  margin-top:0px;
+  padding:40px;
+}
+
+p{
+  margin-bottom:0px;
+}
+
+.bottom-border-w{
+  width:100px;
+  border-top: solid 3px white;
+  display: inline-block;
+}
+
+.bottom-border-r{
+  width:100px;
+  border-top: solid 3px #f05f40;
+  display: inline-block;
+}
+
+.goal-li{
+  text-align: center;
+  padding-top:30px;
+  font-size: 2.3vh;
+}
+
+.icon{
+  margin-bottom:30px;
+}
