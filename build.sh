@@ -4,4 +4,4 @@ hugo --theme=minimal
 cd public
 git add -A
 git commit -m '更新'
-git push
+git push origin gh-pages
