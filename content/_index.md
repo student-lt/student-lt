@@ -3,7 +3,6 @@ title: "学生LT とは"
 date: 2017-08-08T22:30:45+09:00
 draft: false
 ---
-<link rel="stylesheet" href="/top.css">
 <div class="top-red" id="about">
 <h1 class="title">学生LT について<br><span class="bottom-border-w"></span></h1>
 
