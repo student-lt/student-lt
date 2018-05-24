@@ -27,12 +27,15 @@ draft: false
 </div>
 <div class="top-white">
 <h1 class="title">スポンサー募集<br><span class="bottom-border-r"></h1>
-学生LTでは懇親会で食べる🍣の費用を出してくれるスポンサー企業を募集しております。
-スポンサーになっていただいた企業さんについては、イベント内で宣伝させて頂きます。
+<ul>
+<li>学生LTでは懇親会で食べる🍣の費用を出してくれるスポンサー企業を募集しております。</li>
+<li>スポンサーになっていただいた企業さんについては、イベント内で宣伝させて頂きます。</li>
+<li>是非スポンサーになりたいという企業さんがいらっしゃいましたら、下記のメールアドレスかTwitterアカウントまでご連絡お願いします。</li>
+</ul>
 
-是非スポンサーになりたいという企業さんがいらっしゃいましたら、
-下記のメールアドレスかTwitterアカウントまでご連絡お願いします。
-
-Mail: student00lt@gmail.com
-Twitter: https://twitter.com/_student_lt
+<h1 class="title">連絡先<br><span class="bottom-border-r"></h1>
+<ul>
+<li>Mail: <a href="mailto:student00lt@gmail.com" target="_blank">student00lt@gmail.com</a></li>
+<li>Twitter: <a href="https://twitter.com/_student_lt" target="_blank">https://twitter.com/_student_lt</a></li>
+</ul>
 </div>
