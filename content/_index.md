@@ -12,8 +12,7 @@ draft: false
 <h1 class="title">学生LT の活動<br><span class="bottom-border-r"></h1>
 <ul>
 <li>学生限定LT大会を2ヶ月に1回のペースで開催しております。</li>
-<li>学生エンジニアが交流出来る [Discordチーム](https://discord.gg/F4u9yKN) を作りました。</li>
-<li>※ Slackチームは廃止し、Discordへ移行しました。</li>
+<li>また、学生エンジニアが交流出来るDiscordチームもあります。</li>
 </ul>
 <a type="button" class="btn btn-primary btn-lg alink" href="https://discord.gg/F4u9yKN">Discordへ入る</a>
 </div>
