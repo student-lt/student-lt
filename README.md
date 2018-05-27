@@ -19,34 +19,13 @@ https://github.com/kawashi/student-lt/tree/gh-pages
 hugo server --theme=minimal --buildDrafts --watch
 ```
 
-# イベントページ追加方法
+# 編集方法
 
-```
-hugo new event/イベント番号.md
-```
+ヘッダーは `themes/minimal/layouts/partials/_index_header.html` を修正。  
+(同じ階層に `header.html` というのがあるが、これはトップページ以外で使われる。)  
+本文は `content/_index.md` を修正。  
+その他CSSやJS等は `themes/minimal` 以下にある。
 
-イベント番号の例は `no01.md` みたいな感じ。
 
-イベントページの中身の例は下記のイメージ。
-
-```
----
-title: "第1回 学生エンジニア限定LT大会"
-date: 2017-05-06T23:01:24+09:00
-draft: false
----
-
-# 生配信
-
-youtube Live の iframe をベタ貼り
-
-# イベントページ
-
-イベントページURL: 〜
-
-# 当日の様子
-
-Togetterリンク: 〜
-```
 
 Copyright © 2017年 学生LT. All rights reserved.
