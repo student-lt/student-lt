@@ -1,5 +1,5 @@
 ---
-title: "#学生LT - 学生エンジニア、集まれ！学生限定LT大会公式サイト！"
+title: "#学生LT - 学生エンジニア、集まれ！学生LT公式サイト！"
 date: 2017-08-08T22:30:45+09:00
 draft: false
 ---
@@ -12,7 +12,7 @@ draft: false
 <div class="top-white">
 <h1 class="title">学生LT の活動<br><span class="bottom-border-r"></h1>
 <ul>
-<li>学生限定LT大会を2ヶ月に1回のペースで開催しております。</li>
+<li>学生主体のLT大会を2ヶ月に1回のペースで開催しております。</li>
 <li>また、学生エンジニアが交流出来るDiscordチームもあります。</li>
 </ul>
 <a type="button" class="btn btn-primary btn-lg alink" href="https://discord.gg/F4u9yKN">Discordへ入る</a>
