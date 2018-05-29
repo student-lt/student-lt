@@ -35,7 +35,7 @@ draft: false
 
 <h1 class="title">連絡先<br><span class="bottom-border-r"></h1>
 <ul>
-<li>Mail: <a href="mailto:student00lt@gmail.com" target="_blank">student00lt@gmail.com</a></li>
-<li>Twitter: <a href="https://twitter.com/_student_lt" target="_blank">https://twitter.com/_student_lt</a></li>
+<li><i class="fa fa-envelope" aria-hidden="true"></i>Mail: <a href="mailto:student00lt@gmail.com" target="_blank">student00lt@gmail.com</a></li>
+<li><i class="fa fa-twitter" aria-hidden="true"></i>Twitter: <a href="https://twitter.com/_student_lt" target="_blank">https://twitter.com/_student_lt</a></li>
 </ul>
 </div>
