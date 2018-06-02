@@ -13,20 +13,6 @@ https://github.com/kawashi/student-lt/tree/gh-pages
 
 キャッシュ及びHTTPS化は [CloudFlare](https://www.cloudflare.com/) で行っている。
 
-# 開発に参加する
-
-公式サイトに要望がある場合はIssueに記述して頂き、何か改善して頂いた場合はプルリクお願いします！  
-プルリクが溜まっている場合はローカルで動作確認後に良さそうだったらLGTMを出してOKです！  
-プルリクを出した人はLGTMを貰ったらmasterにマージして構いません。  
-マージ後はpullした後に `./build.sh` を実行して頂けるとデプロイされます。  
-(この手順はCircleCI等で自動化予定)
-
-## 注意点
-
-- LGTMはプルリクを出した人以外の人が出す
-- マージする場合は必ず `./build.sh` の実行まで行う
-- 何か問題が発生した場合は学生LTのDiscordの「公式サイト開発部」チャンネルまでお願いします
-
 # ローカルプレビュー方法
 
 ```
@@ -40,6 +26,22 @@ hugo server --theme=minimal --buildDrafts --watch
 本文は `content/_index.md` を修正。  
 その他CSSやJS等は `themes/minimal` 以下にある。
 
+
+# 開発に参加する
+
+公式サイトに要望がある場合はIssueに記述して頂き、何か改善して頂いた場合はプルリクお願いします！  
+プルリクが溜まっている場合はローカルで動作確認後に良さそうだったらLGTMを出してOKです！  
+プルリクを出した人はLGTMを貰ったらmasterにマージして構いません。  
+Issueとプルリクが紐付いている場合はIssueのcloseもお願いします。  
+マージ後はpullした後に `./build.sh` を実行して頂けるとデプロイされます。  
+(この手順はCircleCI等で自動化予定)
+
+何か問題が発生した場合は、学生LTの [Discord](https://discord.gg/F4u9yKN) の「公式サイト開発部」チャンネルまでお願いします！
+
+## 注意点
+
+- LGTMはプルリクを出した人以外の人が出す
+- マージする場合は必ず `./build.sh` の実行まで行う
 
 
 Copyright © 2017年 学生LT. All rights reserved.
