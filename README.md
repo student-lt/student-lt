@@ -25,6 +25,7 @@ https://github.com/kawashi/student-lt/tree/gh-pages
 
 - LGTMはプルリクを出した人以外の人が出す
 - マージする場合は必ず `./build.sh` の実行まで行う
+- 何か問題が発生した場合は学生LTのDiscordの「公式サイト開発部」チャンネルまでお願いします
 
 # ローカルプレビュー方法
 
