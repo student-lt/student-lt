@@ -26,11 +26,11 @@ draft: false
 </div>
 </div>
 <div class="top-white">
-<h1 class="title">スポンサー募集<br><span class="bottom-border-r"></h1>
+<h1 class="title">会場募集<br><span class="bottom-border-r"></h1>
 <ul>
-<li>学生LTでは懇親会で食べる🍣の費用を出してくれるスポンサー企業を募集しております。</li>
-<li>スポンサーになっていただいた企業さんについては、イベント内で宣伝させて頂きます。</li>
-<li>是非スポンサーになりたいという企業さんがいらっしゃいましたら、下記のメールアドレスかTwitterアカウントまでご連絡お願いします。</li>
+<li>学生LT では、イベント会場に使用する会場を提供してくれる企業様を募集しています。</li>
+<li>会場を貸していただいた企業様については、イベント内で宣伝いたします。</li>
+<li>スポンサーになりたいという企業様がいらっしゃいましたら、下記の連絡先までご連絡をよろしくお願いします。</li>
 </ul>
 
 <h1 class="title">連絡先<br><span class="bottom-border-r"></h1>
