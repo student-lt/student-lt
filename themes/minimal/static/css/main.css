@@ -32,18 +32,14 @@ main {
 }
 .intro {
     padding: 35vh 0;
+    background-position:left top;
+    background-repeat: no-repeat;
     background-size: 100% auto;
-    background-image: url("/images/slide.png");
+    background-image: url("/images/student-lt-top.jpg");
     background-size:cover;
-    animation: slide 10s linear infinite;
-}
-@keyframes slide {
-    0% { background-position: 0 0; }
-    0% { background-position: -3024px 0; }
-    /*
-	from { background-position: 0 0; }
-    to { background-position: 3024px 0; }
-    */
+
+
+
 }
 
 .intro > h1 {
@@ -138,6 +134,6 @@ ul{
         font-size: 20px;
     }
     .intro {
-    background-image: url("/images/slide_mobi.png");
+    background-image: url("/images/mobile-top.jpg");
     }
 }
