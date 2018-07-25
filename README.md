@@ -9,7 +9,7 @@ http://qiita.com/yakimeron/items/42d537374abde5517267
 
 ホスティングは下記ブランチで行っている。
 
-https://github.com/kawashi/student-lt/tree/gh-pages
+https://github.com/student-lt/student-lt/tree/gh-pages
 
 キャッシュ及びHTTPS化は [CloudFlare](https://www.cloudflare.com/) で行っている。
 
