@@ -46,4 +46,4 @@ Issueとプルリクが紐付いている場合はIssueのcloseもお願いし�
 - マージする場合は必ず `./build.sh` の実行まで行う
 
 
-Copyright © 2017年 学生LT. All rights reserved.
+© 2017-2019 学生LT. All rights reserved.
