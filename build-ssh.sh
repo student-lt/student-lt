@@ -4,7 +4,7 @@ rm -rf public
 mkdir public
 cd public
 git init
-git remote add origin https://github.com/student-lt/student-lt.git
+git remote add origin git@github.com:student-lt/student-lt.git 
 git pull origin gh-pages
 cd ..
 hugo --theme=minimal
