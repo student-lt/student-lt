@@ -2,6 +2,6 @@
 
 http://qiita.com/satzz/items/e24bd703fc04fb45f7ef を参照しながら作った。
 
-プレビュー: https://kawashi.github.io/student-lt/
+プレビュー: https://student-lt.tech/
 
 更新するには、ルートディレクトリにある `build.sh` を実行する。
