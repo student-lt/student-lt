@@ -35,7 +35,7 @@ hugo server --theme=minimal --buildDrafts --watch
 プルリクが溜まっている場合はローカルで動作確認後に良さそうだったらLGTMを出してOKです！  
 プルリクを出した人はLGTMを貰ったらmasterにマージして構いません。  
 Issueとプルリクが紐付いている場合はIssueのcloseもお願いします。  
-マージ後はpullした後に `./build.sh` を実行して頂けるとデプロイされます。  
+マージ後はpullした後に `./build.sh`(HTTPS用),`./build-ssh.sh`(SSH用) を実行して頂けるとデプロイされます。  
 (この手順はCircleCI等で自動化予定)
 
 何か問題が発生した場合は、学生LTの [Discord](https://discord.gg/F4u9yKN) の「公式サイト開発部」チャンネルまでお願いします！
@@ -43,7 +43,7 @@ Issueとプルリクが紐付いている場合はIssueのcloseもお願いし�
 ## 注意点
 
 - LGTMはプルリクを出した人以外の人が出す
-- マージする場合は必ず `./build.sh` の実行まで行う
+- マージする場合は必ず `./build.sh`(HTTPS用),`./build-ssh.sh`(SSH用) の実行まで行う
 
 
 Copyright © 2017年 学生LT. All rights reserved.
