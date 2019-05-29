@@ -38,4 +38,9 @@ draft: false
 <li>Contact: <a href="https://goo.gl/forms/sVJ0bjtzMpuArqvf2" target="_blank">https://goo.gl/forms/sVJ0bjtzMpuArqvf2</a></li>
 <li>Twitter: <a href="https://twitter.com/_student_lt" target="_blank">https://twitter.com/_student_lt</a></li>
 </ul>
+
+<h1 class="title">Powered by<br></h1>
+<a href="https://www.netlify.com">
+<img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg"/>
+</a>
 </div>
