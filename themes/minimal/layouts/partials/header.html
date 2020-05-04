@@ -1,62 +1,105 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <title>
+      {{ .Title }} | {{ .Site.Title }}
+    </title>
 
-    <head>
+    {{ partial "css" . }} {{ .Hugo.Generator }}
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="title" content="#学生LT" />
+    <meta
+      name="description"
+      content="学生エンジニア、集まれ。#学生LT は、学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="#学生LT" />
+    <meta
+      property="og:description"
+      content="学生エンジニア、集まれ。#学生LT は、学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。"
+    />
+    <meta
+      property="og:image"
+      content="https://student-lt.tech/images/student-lt-top.jpg"
+    />
+    <meta property="og:url" content="https://student-lt.tech" />
+    <meta property="og:site_name" content="#学生LT" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="#学生LT" />
+    <meta
+      name="twitter:description"
+      content="学生エンジニア、集まれ。#学生LT は、学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。"
+    />
+    <meta
+      name="twitter:image"
+      content="https://student-lt.tech/images/student-lt-top.jpg"
+    />
 
-        <title>{{ if .Title }} {{ .Title }} | {{ .Site.Title }} {{ else if .Params.forced_title }} {{ .Params.forced_title }} {{ else }} {{ .Site.Title }} {{ end }}</title>
+    <link rel="stylesheet" href="/top.css" />
+  </head>
 
-        {{ partial "css" . }} {{ .Hugo.Generator }}
-        <link rel="shortcut icon" href="/favicon.ico" />
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name='title' content='#学生LT'>
-        <meta name='description' content='学生エンジニア、集まれ。#学生LT は、学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。'>
-        <meta property='og:type' content='website'>
-        <meta property='og:title' content='#学生LT'>
-        <meta property='og:description' content='学生エンジニア、集まれ。#学生LT は、学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。'>
-        <meta property='og:image' content='https://student-lt.tech/images/student-lt-top.jpg'>
-        <meta property='og:url' content='https://student-lt.tech'>
-        <meta property='og:site_name' content='#学生LT'>
-        <meta property='og:locale' content='ja_JP'>
-        <meta name='twitter:card' content='summary'>
-        <meta name='twitter:title' content='#学生LT'>
-        <meta name='twitter:description' content='学生エンジニア、集まれ。#学生LT は、学生エンジニアがお互いに繋がれる環境を作る為に立ち上がったコミュニティです。'>
-        <meta name='twitter:image' content='https://student-lt.tech/images/student-lt-top.jpg'>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button
+            class="navbar-toggle"
+            data-target=".navbar-collapse"
+            data-toggle="collapse"
+          >
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
 
-        <link rel="stylesheet" href="/top.css">
-
-    </head>
-
-    <body>
-
-        <nav class="navbar navbar-default navbar-fixed-top">
-
-            <div class="container">
-
-                <div class="navbar-header">
-
-                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-
-                </div>
-
-                <div class="collapse navbar-collapse">
-
-                    <ul class="nav navbar-nav navbar-right">
-                        <li class="navbar-icon"><a href="https://twitter.com/_student_lt" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li class="navbar-icon"><a href="https://www.facebook.com/groups/237311463440708/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li class="navbar-icon"><a href="https://discord.gg/F4u9yKN" target="_blank"><img src="/images/discord.svg" width="17"></a></li>
-                        <li class="navbar-icon"><a href="https://www.flickr.com/groups/4473724@N25/" target="_blank"><img src="/images/flickr.svg" width="17"></a></li>
-                        <li class="navbar-icon"><a href="https://scrapbox.io/student-lt" target="_blank"><img src="/images/scrapbox.svg"></a></li>
-                        <li class="navbar-icon"><a href="https://github.com/student-lt" target="_blank"><span class="fa fa-github"></span></a></li>
-                        <li><a href="https://student-lt.connpass.com/" target="_blank">Event</a></li>
-                    </ul>
-
-                </div>
-
-            </div>
-
-        </nav>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="navbar-icon">
+              <a href="https://twitter.com/_student_lt" target="_blank"
+                ><i class="fa fa-twitter"></i
+              ></a>
+            </li>
+            <li class="navbar-icon">
+              <a
+                href="https://www.facebook.com/groups/237311463440708/"
+                target="_blank"
+                ><i class="fa fa-facebook"></i
+              ></a>
+            </li>
+            <li class="navbar-icon">
+              <a href="https://discord.gg/F4u9yKN" target="_blank"
+                ><img src="/images/discord.svg" width="17"
+              /></a>
+            </li>
+            <li class="navbar-icon">
+              <a
+                href="https://www.flickr.com/groups/4473724@N25/"
+                target="_blank"
+                ><img src="/images/flickr.svg" width="17"
+              /></a>
+            </li>
+            <li class="navbar-icon">
+              <a href="https://scrapbox.io/student-lt" target="_blank"
+                ><img src="/images/scrapbox.svg"
+              /></a>
+            </li>
+            <li class="navbar-icon">
+              <a href="https://github.com/student-lt" target="_blank"
+                ><span class="fa fa-github"></span
+              ></a>
+            </li>
+            <li>
+              <a href="https://student-lt.connpass.com/" target="_blank"
+                >Events</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </body>
+</html>
