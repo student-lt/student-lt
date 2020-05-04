@@ -1,8 +1,9 @@
 ---
 forced_title: "#学生LT - 学生エンジニア、集まれ！学生LT公式サイト！"
-date: 2017-08-08T22:30:45+09:00
+date: 2020-05-04T16:30:45+09:00
 draft: false
 ---
+
 <div class="top-red" id="about">
 <h1 class="title">学生LT について<br><span class="bottom-border-w"></span></h1>
 <ul>
@@ -25,6 +26,7 @@ draft: false
 <div class="col-md-4 goal-li"><i class="glyphicon glyphicon-resize-small icon fa-4x"></i><br>日本中の学生エンジニアを繋げます</div>
 </div>
 </div>
+<div><h1 class="title">最近の配信<br><span class="bottom-border-r"></h1><iframe title="student_lt's player frame" i18n-title="channel#ShareDialog:playerEmbedFrame|Embed player Frame copied from share dialog" allowfullscreen="true" src="https://mixer.com/embed/player/student_lt?disableLowLatency=1" width="720" height="450"> </iframe></div>
 <div class="top-white">
 <h1 class="title">会場募集<br><span class="bottom-border-r"></h1>
 <ul>
