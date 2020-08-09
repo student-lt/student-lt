@@ -10,7 +10,6 @@ Hugo の触り方は下記リンク参照。
 http://qiita.com/yakimeron/items/42d537374abde5517267
 
 ホスティングは [Netlify](https://www.netlify.com/) で行っている。  
-キャッシュ及びHTTPS化は [CloudFlare](https://www.cloudflare.com/) で行っている。
 
 # ローカルプレビュー方法
 
