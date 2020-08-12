@@ -3,6 +3,9 @@ forced_title: "#学生LT - 学生エンジニア、集まれ！学生LT公式サ
 date: 2017-08-08T22:30:45+09:00
 draft: false
 ---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v4.0"></script>
+
 <div class="top-red" id="about">
 <h1 class="title">学生LT について<br><span class="bottom-border-w"></span></h1>
 <ul>
@@ -39,3 +42,7 @@ draft: false
 <li>Twitter: <a href="https://twitter.com/_student_lt" target="_blank">https://twitter.com/_student_lt</a></li>
 </ul>
 </div>
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="fb-share-button" data-href="https://student-lt.tech/" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstudent-lt.tech%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">シェア</a></div>
